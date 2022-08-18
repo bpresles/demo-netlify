@@ -1,35 +1,33 @@
 ---
-title: Great coffee with a conscience test
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Younup
+subtitle: Ensemble, donnons du sens au travail
+image: img/35947b466a178031433f6794297ee6531f6d0c07.jpeg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Pourquoi Younup ?
+  text: >-
+    Consultants, avez-vous le choix des projets sur lesquels vous intervenez ?
+
+    Avez-vous un impact sur les décisions prises par vos dirigeants ?
+
+
+    Chez Younup, vous êtes maîtres de votre carrière et c’est tous ensemble que l’on co-construit l'entreprise.
+
+
+    Découvrez comment dans cette vidéo de 2 minutes !
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  heading: Notre différence s’inscrit dès notre process de recrutement
+  text: >-
+    Vos envies comptent autant que vos compétences.
+
+    Pas de codingame, ni de test psychotechnique. Candidats, ce sont nos consultants et nos managers qui échangent directement avec vous.
+
+    ‍
+
+    Le fil directeur de nos discussions ?
+
+    La transparence, l'expertise et l'honnêteté.
+products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Nos valeurs
+  text: L'expertise, l'agilité, la proximité et le partage.
 ---
