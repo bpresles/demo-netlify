@@ -26,7 +26,6 @@ intro:
     Le fil directeur de nos discussions ?
 
     La transparence, l'expertise et l'honnêteté.
-products: []
 values:
   heading: Nos valeurs
   text: L'expertise, l'agilité, la proximité et le partage.
